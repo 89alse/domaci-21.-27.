@@ -1,0 +1,6 @@
+C:\Users\Zen Pro\source\repos\domaci2\domaci2\bin\Debug\domaci2.exe.config
+C:\Users\Zen Pro\source\repos\domaci2\domaci2\bin\Debug\domaci2.exe
+C:\Users\Zen Pro\source\repos\domaci2\domaci2\bin\Debug\domaci2.pdb
+C:\Users\Zen Pro\source\repos\domaci2\domaci2\obj\Debug\domaci2.csprojAssemblyReference.cache
+C:\Users\Zen Pro\source\repos\domaci2\domaci2\obj\Debug\domaci2.exe
+C:\Users\Zen Pro\source\repos\domaci2\domaci2\obj\Debug\domaci2.pdb
